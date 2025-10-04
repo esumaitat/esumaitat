@@ -5,7 +5,7 @@ I’m **Sumaitat**, a junior **Electrical and Computer Engineering** student at 
 <p align="center"> ⁎ ⁎ ⁎ </p>
 
 ### ⊹ What I’m Working On ⊹
-- ⛈ Conducting **independent research** on *solar forecasting* with a university team — focusing on **EDA**, **data preprocessing**, and **model prototyping** for renewable energy prediction.  
+- ☽ Conducting **independent research** on *solar forecasting* with a university team — focusing on **EDA**, **data preprocessing**, and **model prototyping** for renewable energy prediction.  
 - 𖧵 Participating in the **Break Through Tech AI program**, applying ML techniques to real-world social and economic data problems.  
 - Developing **personal projects** in areas that excite me:  
   - ☊ Audio signal processing  
@@ -30,10 +30,10 @@ I’m drawn to projects that merge **creativity and computation** — systems th
 
 ### ◡̈ Let’s Connect
 ✦ Based in Albany, NY and New York, NY 
-[LinkedIn](https://www.linkedin.com/in/sumaitate)  
-[GitHub](https://github.com/esumaitat)  
+⟡ [LinkedIn](https://www.linkedin.com/in/sumaitate)  
+⟡ [GitHub](https://github.com/esumaitat)  
 
-
+<p align="center"> ⁎ ⁎ ⁎ </p>
 
 > *“But remember this... airplanes are not tools for war. They are not for making money. Airplanes are beautiful dreams. Engineers turn dreams into reality.”*
 > 
