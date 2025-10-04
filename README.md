@@ -26,8 +26,10 @@ I’m drawn to projects that merge **creativity and computation** — systems th
 
 
 ###  ⊹ Technical Stack  ⊹
-**Languages:** Java · Python · MATLAB  
-**Frameworks & Tools:** scikit-learn · TensorFlow · NumPy · Pandas · Plotly · Git 
+**Languages:** Java · Python · MATLAB
+⎵
+**Frameworks & Tools:** scikit-learn · TensorFlow · NumPy · Pandas · Plotly · Git
+⎵
 **Design & Visualization:** Figma · Adobe Suite · Excel· Matplotlib 
 
 <p align="center"> ⁎ ⁎ ⁎ </p>
